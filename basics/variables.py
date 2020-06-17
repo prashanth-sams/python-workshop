@@ -6,3 +6,6 @@ print(Value1 + Value2)
 Value3, Name3 = 3, "Prashanth"
 print(str(Value3) + ": " + Name3)
 
+# assign a value for two variable names
+Value4 = Value5 = 10
+print(Value4 + Value5)
