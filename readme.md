@@ -10,3 +10,5 @@
 | For loop       | :white_check_mark: |
 | While loop     | :white_check_mark: |
 | If else        | :white_check_mark: |
+| Functions      | :white_check_mark: |
+| Arrays         | :white_check_mark: |
