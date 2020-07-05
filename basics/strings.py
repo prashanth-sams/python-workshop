@@ -12,7 +12,7 @@ Yes
 """)
 
 # concatenate two strings
-print('Jesus is coming!'+' Are you ready?')
+print('Jesus is coming!' + ' Are you ready?')
 
 # concatenate two strings as a parameter
 str1 = 'Jesus is coming!'
@@ -25,3 +25,7 @@ print(str1 + "\n" + name + ", " + str2)
 
 # fetch string value through indices
 print(name[0])
+
+# get char length
+print(len('am here'))
+print('am here'.__len__())
