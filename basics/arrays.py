@@ -19,3 +19,23 @@ y.append('new')
 print(k)
 y.extend(k)
 print(y)
+
+# init 5 index with same value
+k = ["last"] * 5
+k[0] = "one"
+k[1] = "two"
+k[2] = "three"
+print(k)
+
+# declare and insert values in an array
+a = []
+a.append('first item')
+a.append('second item')
+print(a)
+
+# replace an existing array index value
+a = []
+a.append('first item')
+a.append('second item')
+a[1] = 'replaced'
+print(a)

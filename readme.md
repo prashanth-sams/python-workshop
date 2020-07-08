@@ -12,3 +12,6 @@
 | If else        | :white_check_mark: |
 | Functions      | :white_check_mark: |
 | Arrays         | :white_check_mark: |
+| Sets           | :white_check_mark: |
+| Tuple          | :white_check_mark: |
+| Dictionary     | :white_check_mark: |
