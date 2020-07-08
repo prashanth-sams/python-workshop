@@ -10,7 +10,7 @@
 | For loop       | :white_check_mark: | Dictionary     | :white_check_mark: |
 | While loop     | :white_check_mark: | Inheritance    | :white_check_mark: |
 | If else        | :white_check_mark: | Iterators      | :white_check_mark: |
-
+| Operators      | :white_check_mark: |
 
 
 
