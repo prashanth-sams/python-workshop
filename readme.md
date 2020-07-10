@@ -9,3 +9,4 @@
 | Boolean        | :white_check_mark: | Tuple          | :white_check_mark: | For loop       | :white_check_mark: |
 | While loop     | :white_check_mark: | If else        | :white_check_mark: | Operators      | :white_check_mark: |
 | Datatype       | :white_check_mark: | Exception      | :white_check_mark: | Projects       | :white_check_mark: |
+| Lambda         | :white_check_mark: |
