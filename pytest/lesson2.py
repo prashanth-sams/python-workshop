@@ -20,3 +20,4 @@ def test_fail(setup):
 
 
 # pytest -v -s pytest/lesson2.py
+# pytest -v -s pytest/lesson2.py::test_fail
