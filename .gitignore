@@ -4,4 +4,5 @@
 */.DS_Store
 venv/
 .pytest_cache/
+pytest/.pytest_cache/
 pytest/__pycache__/

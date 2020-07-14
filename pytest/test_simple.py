@@ -4,4 +4,3 @@ def test_pass():
 
 def test_fail():
     raise Exception('fail')
-
