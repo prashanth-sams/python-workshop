@@ -1,0 +1,6 @@
+print(dir())
+exec("def x(): print('am here')", {"x": None})
+print(dir())
+exec("def x(): print('am here')")
+print(dir())
+x()
