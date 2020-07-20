@@ -5,5 +5,5 @@
 | -------------- | --------- | ---------    |
 | eval()         | hasattr() | isinstance() |
 | exec()         | getattr() | issubclass() |
-| min()          | setattr() |
+| min()          | setattr() | map()        |
 | max()          | delattr() |
