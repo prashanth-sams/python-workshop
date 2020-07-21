@@ -6,4 +6,4 @@
 | eval()         | hasattr() | isinstance() |
 | exec()         | getattr() | issubclass() |
 | min()          | setattr() | map()        |
-| max()          | delattr() |
+| max()          | delattr() | filter()     |
