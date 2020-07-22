@@ -7,4 +7,4 @@
 | exec()   | getattr() | issubclass() | sum()        |
 | min()    | setattr() | map()        | breakpoint() |
 | max()    | delattr() | filter()     | vars()       |
-| type()   |
+| type()   | range()   | any()        | all()        |
