@@ -9,4 +9,4 @@
 | Boolean        | :white_check_mark: | Tuple          | :white_check_mark: | [Generators](https://github.com/prashanth-sams/python-dumps/tree/master/yield%20generator)     | :white_check_mark: | [Projects](https://github.com/prashanth-sams/python-dumps/tree/master/projects)       | :white_check_mark: |
 | [Loops](https://github.com/prashanth-sams/python-dumps/tree/master/loop)          | :white_check_mark: | If else        | :white_check_mark: | Operators      | :white_check_mark: | Exception      | :white_check_mark: |
 | Datatype       | :white_check_mark: | [Decorators](https://github.com/prashanth-sams/python-dumps/tree/master/decorators)     | :white_check_mark: | [Closure](https://github.com/prashanth-sams/python-dumps/tree/master/closure)        | :white_check_mark: | [Built-ins](https://github.com/prashanth-sams/python-dumps/tree/master/builtins)        | :white_check_mark: |
-
+| Methods        | :white_check_mark: |
