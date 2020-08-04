@@ -5,9 +5,4 @@
 - Selection Sort
 - Merge Sort
 - Bubble Sort
-- Quick Sort
 - Insertion Sort
-- Bucket Sort
-
-
-### Hash Table
