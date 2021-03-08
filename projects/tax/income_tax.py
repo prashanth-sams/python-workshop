@@ -5,7 +5,7 @@
 50% for >= 60000 AED
 """
 
-
+# method 1
 def salary(value):
     if value < 20000:
         return value
@@ -20,3 +20,20 @@ def salary(value):
 
 
 print(salary(22000))
+
+
+# method 2
+def salary_2(value):
+    if value in (0, 20000):
+        return value
+    elif value in (20000, 40000):
+        return value - (value * 20 / 100)
+    elif value in (40000, 60000):
+        return value - (value * 30 / 100)
+    elif value >= 60000:
+        return value - (value * 50 / 100)
+    else:
+        raise Exception('invalid amount')
+
+print(salary(22000))
+
