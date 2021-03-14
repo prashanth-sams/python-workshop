@@ -7,4 +7,3 @@ venv/
 pytest/.pytest_cache/
 pytest/__pycache__/
 builtins/getitem.py
-projects/prime_number.py
