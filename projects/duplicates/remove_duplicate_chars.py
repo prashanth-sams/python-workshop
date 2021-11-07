@@ -1,13 +1,16 @@
-k = 'Prashanth'
+name ="Prashanth"
 
+def getLocation(value):
+    for i in range(len(value)):
+        for j in range(i, len(value)-1):
+            if value[i] == value[j+1]:
+                yield j+1
 
-def remove_duplicates(k):
-    for i in range(len(k)):
-        for j in range(i, len(k)-1):
-            if k[i] == k[j+1]:
-                l = k.replace(k[j+1], '')
-
-    return l
-
-
-print(remove_duplicates(k))
+def removeDuplicates(value):
+    k = list(getLocation(value))
+    print(k)
+    for i in range(len(value)-1, -1, -1):
+        if i in k:
+            value = value[:i] + '' + value[i + 1:]
+    return value
+print(removeDuplicates("Prashanth"))
