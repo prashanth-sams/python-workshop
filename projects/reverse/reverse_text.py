@@ -78,3 +78,12 @@ def reverse(data):
         yield data[index]
 
 print("".join(list(reverse('abcdefg'))))
+
+# method 10
+k = "prashanth"
+l = []
+
+for i in range(len(k), 0, -1):
+    l.append(k[i-1])
+
+print(str(''.join(l)))
